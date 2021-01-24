@@ -130,6 +130,7 @@ possible.
         <li>Reinvest revenue from users engaging in harmful behaviors to users or external parties engaging in beneficial behaviors.</li>
         <li>Advocate for public-policy and protection for individuals and groups impacted by users' harmful behavior.</li>
         <li>Participate in carbon-neutral initiatives for a sustainable planet.</li>
+        <li>Organize a union.</li>
       </ul>
     </td>
   </tr>
